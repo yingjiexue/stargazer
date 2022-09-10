@@ -6498,8 +6498,8 @@ function(libname, pkgname) {
     .format.p.values.left <- "p = "
     .format.p.values.right <- ""
     
-    .format.t.stats.left <- "t = "
-    .format.t.stats.right <- ""
+    .format.t.stats.left <- "("
+    .format.t.stats.right <- ")"
     
     .format.models.text <- ""
     .format.models.left <- "\\textit{"
