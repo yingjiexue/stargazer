@@ -1,6 +1,6 @@
 ## Installation
 
-You can install the development version of startowd from [GitHub](https://github.com/) with:
+You can install the development version of stargazer from [GitHub](https://github.com/) with:
 
 ``` r
 # install.packages("devtools")
